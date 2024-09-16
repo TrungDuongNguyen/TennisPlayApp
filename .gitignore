@@ -1,0 +1,8 @@
+# Node.js
+frontend/node_modules/
+frontend/.next/
+
+# Python
+backend/__pycache__/
+backend/db.sqlite3
+backend/env/
